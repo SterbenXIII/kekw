@@ -12,13 +12,6 @@
   font-weight: normal;
   font-style: normal; }
 
-:root {
-    --montserrat: 'Montserrat', sans-serif;
-    --ubuntu: 'Ubuntu', sans-serif;
-    --padding: 7% 15%;
-    --font-bold: bold;
-    --line-height: 1.5;
-}
 
 
 html {
@@ -610,12 +603,12 @@ a {
 }
 
 #footer {
-  padding: var(--padding);
+  padding: 7% 15%;
   text-align: center;
 }
 
 .copyRight {
-  font-family: var(--montserrat);
+ 
   font-size: 1rem;
 }
 
